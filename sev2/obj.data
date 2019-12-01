@@ -1,0 +1,5 @@
+classes = 1
+train = sev2/train.txt 
+valid = sev2/test.txt
+names = sev2/sev.names
+backup = sev2/
